@@ -22,43 +22,40 @@
 
 ### Objective
 
-The main objective of the application is to inform and help user narrow their computer science concentration to one by providing valuable and important informations about each CS field. 
+
 
 ### Audience
-- Primary : High School Juniors & Seniors who are interested in CS -
-- Secondary : College students who are in the blur of CS.
-- Tertiary : Anyone who is interested in Computer Science.
+- Primary : 
+- Secondary : 
+- Tertiary : 
 
 
 ### User Experience
 
-#### Action 1 -  User On-boarding 
+#### Action 1 -   
 
-When the user boots up the app, there will be a quick on-boarding composed of 4 swappable screens showing  and explaining the main features of the application.
+When the user boots up the app...
 
-#### Action 2 - Home Page
+#### Action 2 - 
 
-After the on-boarding screens, the user will be on the home page. There will be two main clickable Cells - Software Dev Paths and Soft Skills.
+After ...
 
-#### Action 3 - Software Dev Paths
+#### Action 3 - 
 
-When the user clicks on this, he/she will be see a scrollable collection view of possible paths a computer science major could concentrate in. On each cell, there will be an image, the name of the path, the annual salary, Education level required, and projection rate. E.g : Data Scientist, $120K/year, 75%.
+When the user clicks on this...
     
-        - Sub Action : Click on a cell
+        - Sub Action : 
  
-        When the user clicks on specific cell, he/she will get more information 
-        about that path.
+        When the user clicks on specific ...
 
 
-#### Action 4 - Soft Skills
+#### Action 4 - 
 
-When the user clicks on this, he/she will be see a scrollable collection view of possible soft skills and tools a computer science major could hone in that goes along with some paths. On each cell, there will be an image, the name of the skill and its type. E.g : Git , collaboration.
 
-        - Sub Action : Click on a cell
+
+        - Sub Action : 
  
-        When the user clicks on specific cell, he/she will get more information 
-        about that skill.
-
+        When the user clicks on specific ...
 [Back to top ^](#)
 
 ---
