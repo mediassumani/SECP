@@ -91,12 +91,12 @@ list all data models your app will need
 ### MVP Milestones
 [The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
 
-#### Sprint 1 (Day 2)
+#### Sprint 1 (Day 1)
 
 * defining the MVP:
    * Descrition goes here
 
-#### Sprint 2 (Day 1)
+#### Sprint 2 (Day 2)
 _finishing a usable build_
 * [goals for the day]
 
