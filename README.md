@@ -4,7 +4,7 @@
   * [App Design](#app-design)
     * [Objective](#objective)
     * [Audience](#audience)
-    * [Experience](#experience)
+    * [User Experience](#user-experience)
   * [Technical](#technical)
     * [Screens](#Screens)
     * [External services](#external-services)
@@ -20,27 +20,27 @@
 
 ### App Design
 
-#### Objective
+### Objective
 
 The main objective of the application is to inform and help user narrow their computer science concentration to one by providing valuable and important informations about each CS field. 
 
-#### Audience
+### Audience
 - Primary : High School Juniors & Seniors who are interested in CS -
 - Secondary : College students who are in the blur of CS.
 - Tertiary : Anyone who is interested in Computer Science.
 
 
-#### Experience
+### User Experience
 
-## Action 1 -  User On-boarding 
+#### Action 1 -  User On-boarding 
 
 When the user boots up the app, there will be a quick on-boarding composed of 4 swappable screens showing  and explaining the main features of the application.
 
-## Action 2 - Home Page
+#### Action 2 - Home Page
 
 After the on-boarding screens, the user will be on the home page. There will be two main clickable Cells - Software Dev Paths and Soft Skills.
 
-## Action 3 - Software Dev Paths
+#### Action 3 - Software Dev Paths
 
 When the user clicks on this, he/she will be see a scrollable collection view of possible paths a computer science major could concentrate in. On each cell, there will be an image, the name of the path, the annual salary, Education level required, and projection rate. E.g : Data Scientist, $120K/year, 75%.
     
@@ -50,7 +50,7 @@ When the user clicks on this, he/she will be see a scrollable collection view of
         about that path.
 
 
-## Action 4 - Soft Skills
+#### Action 4 - Soft Skills
 
 When the user clicks on this, he/she will be see a scrollable collection view of possible soft skills and tools a computer science major could hone in that goes along with some paths. On each cell, there will be an image, the name of the skill and its type. E.g : Git , collaboration.
 
