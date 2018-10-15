@@ -26,7 +26,7 @@ The main objective of the application is to inform and help user narrow their co
 
 #### Audience
 - Primary : High School Juniors & Seniors who are interested in CS -
-- Secondary Target : College students who are in the blur of CS.
+- Secondary : College students who are in the blur of CS.
 - Tertiary : Anyone who is interested in Computer Science.
 
 
