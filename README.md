@@ -22,7 +22,7 @@
 
 ### Objective
 
-
+The main goal of my app/website ...
 
 ### Audience
 - Primary : 
