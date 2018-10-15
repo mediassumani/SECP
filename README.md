@@ -91,22 +91,21 @@ list all data models your app will need
 ### MVP Milestones
 [The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
 
-#### Sprint 1 (Day 1)
+#### Sprint 1 (Day 1 - Monday Oct 15th)
 
 * defining the MVP:
    * Descrition goes here
 
-#### Sprint 2 (Day 2)
-_finishing a usable build_
+#### Sprint 2 (Day 2 - Tuesday Oct 16th)
 * [goals for the day]
 
-#### Sprint 3 (Day 3)
+#### Sprint 3 (Day 3 - Wednesday Oct 17th)
 * [goals for the day]
 
-#### Sprint4 (Day 4)
+#### Sprint4 (Day 4 - Thursday Oct 18th)
 * [goals for the day, should be finishing all core features]
 
-#### Sprint 5 (Day 5)
+#### Sprint 5 (Day 5 - Friday Oct 19th)
 _starting the polish_
 * [goals for the day]
 
