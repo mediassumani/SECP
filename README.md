@@ -1,4 +1,4 @@
-# SECP
+# SECP (Replace SECP with your app or wesite name)
 
 ## Table of Contents
   * [App Design](#app-design)
