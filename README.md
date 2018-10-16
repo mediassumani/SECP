@@ -1,4 +1,4 @@
-# SECP (Replace SECP with your app or wesite name)
+# app or wesite name
 
 ## Table of Contents
   * [App Design](#app-design)
@@ -116,21 +116,21 @@ list all data models your app will need
 ### MVP Milestones
 [The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
 
-#### Sprint 1 (Day 1 - Monday Oct 15th)
+#### Sprint 1 (Day 1)
 
 * defining the MVP:
    * Descrition goes here
 
-#### Sprint 2 (Day 2 - Tuesday Oct 16th)
+#### Sprint 2 (Day 2 )
 * [goals for the day]
 
-#### Sprint 3 (Day 3 - Wednesday Oct 17th)
+#### Sprint 3 (Day 3)
 * [goals for the day]
 
-#### Sprint4 (Day 4 - Thursday Oct 18th)
+#### Sprint4 (Day 4)
 * [goals for the day, should be finishing all core features]
 
-#### Sprint 5 (Day 5 - Friday Oct 19th)
+#### Sprint 5 (Day 5)
 _starting the polish_
 * [goals for the day]
 
