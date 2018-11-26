@@ -1,4 +1,4 @@
-# app or wesite name
+# --> App or Website name
 
 ## Table of Contents
   * [App Design](#app-design)
